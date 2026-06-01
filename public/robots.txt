@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thanya2718.github.io/vanda-nichada-homes-ISB/sitemap.xml
