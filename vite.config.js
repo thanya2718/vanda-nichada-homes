@@ -7,5 +7,5 @@ import react from '@vitejs/plugin-react'
 // Public URL: https://USERNAME.github.io/vanda-nichada-homes-ISB/
 export default defineConfig({
   plugins: [react()],
-  base: '/vanda-nichada-homes-ISB/',
+  base: '/vanda-nichada-homes/',
 })
