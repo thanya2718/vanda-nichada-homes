@@ -50,7 +50,17 @@ const properties = [
     image: 'https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?q=80&w=1200&auto=format&fit=crop',
     tags: ['Modern', 'Quiet street', 'Move-in ready'],
   },
- 
+   {
+    id: 4,
+    title: 'Modern Family Pool Villa',
+    location: 'Close to ISB International School',
+    price: '150,000 THB / month',
+    beds: 4,
+    baths: 3,
+    type: 'Villa',
+    image: 'https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?q=80&w=1200&auto=format&fit=crop',
+    tags: ['Modern', 'Quiet street', 'Move-in ready'],
+  },
 ]
 
 function Stat({ value, label }) {
