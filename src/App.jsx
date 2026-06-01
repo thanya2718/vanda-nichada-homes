@@ -299,7 +299,7 @@ export default function App() {
             <Button variant="secondary" onClick={() => window.open(FACEBOOK_PAGE_URL, '_blank')}>
               <MessageCircle size={18} /> Message Facebook
             </Button>
-            <Button variant="secondary">
+            <Button variant="secondary" onClick={() => window.open(FACEBOOK_PAGE_URL, '_blank')} >
               <Phone size={18} /> Add phone / Line
             </Button>
           </div>
